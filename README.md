@@ -119,8 +119,9 @@ Support
 
 Lisence
 -------------
-MIT Lisence
+[MIT Lisence][3]
 
   [1]: http://havkalix.hexlab.kr
   [2]: http://www.facebook.com/namegpark
+  [3]: https://github.com/namegpark/puller/blob/master/LICENSE
 
