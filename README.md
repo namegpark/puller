@@ -6,8 +6,6 @@ Intro
 Google Play Store에는 알려지지 않은 많은 악성코드가 존재하고 있습니다.
 안드로이드 사용자들은 언제 악성코드에 감염될지 모르는 잠재적인 위험을 가지고 사용하고 있고, 전 세계의 많은 악성코드 분석가들은 이러한 잠재적 위험을 줄이기 위해 어플리케이션 분석을 합니다. 하지만 Play Store에 업로드되어있는 앱을 어떻게 추출하여 분석할까요? 분석을 위해 Play Store에서 실제 단말기로 앱을 설치 후 그 앱을 추출 해야한다면, 그 행위는 리스크가 매우 큰 행위입니다. Puller는 Play Store에 공개된 앱을 다운로드받게 해줌으로써 그러한 리스크를 줄여줄 것입니다.
 
--------------
-
 
 Requirement
 -------------
@@ -102,7 +100,6 @@ Puller 서비스를 밤낮없이 개발한 개발자들을 소개합니다.
 > - Student (Undergraduate) - Daejeon University 
 > - Visit [Blog][1], [mgr@hexlab.kr]
 
--------------
 
 Helper
 -------------
@@ -112,7 +109,6 @@ Helper
 > - Support Translation
 > - Visit [Facebook][2], [gayeonglylalee@gmail.com]
 
-----------
 
 ### Support
 
