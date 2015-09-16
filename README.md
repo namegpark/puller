@@ -38,10 +38,11 @@ Start Puller
 Puller를 사용하기 위해서는 데이터베이스를 사전에 구성하여야합니다.
 Puller 데이터베이스에는 어플리케션에 관한 패키지 명, 패키지 사이즈, Hash 등의 다양한 정보가 저장됩니다. 아래 명령어를 통하여 Puller 데이터베이스를 구성하십시오.
 
-> **데이터베이스 생성 및 구성**
-
-> - cd puller/database
-> - python starter_db.py
+```javascript
+cd puller/database
+python starter_db.py
+});
+```
 
 #### <i class="icon-pencil"></i> 사용자 설정
 
