@@ -41,7 +41,6 @@ Puller 데이터베이스에는 어플리케션에 관한 패키지 명, 패키�
 ```javascript
 cd puller/database
 python starter_db.py
-});
 ```
 
 #### <i class="icon-pencil"></i> 사용자 설정
@@ -66,10 +65,11 @@ MYSQL_PW     | 데이터베이스 비밀번호
 
 Puller를 이용하려면 특정 파라미터를 인자를 넘겨줌으로써 엔진을 실행시켜야합니다. 아래 명령어를 따라하여 엔진을 구동하십시오. 만약 서비스 실행 중 엔진을 종료하고 싶다면 터미널에서 <kbd>Ctrl+Z</kbd> 또는 <kbd>Ctrl+C</kbd>을 누르십시오.
 
-> **서비스 실행**
+```javascript
+cd puller
+python Engine.py -u [Package Name] -t [Token]
+```
 
-> - cd puller
-> - python Engine.py -u [Package Name] -t [Token]
 
 #### <i class="icon-trash"></i> 권한 정보 추가
 
