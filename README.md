@@ -110,12 +110,17 @@ Helper
 > - Visit [Facebook][2], [gayeonglylalee@gmail.com]
 
 
-### Support
+Support
+-------------
 
 [![](http://d2.naver.com/static/img/app/d2_logo.gif)](http://d2.naver.com/home)
 
  [Naver D2](https://stackedit.io/) is a full-featured, open-source Markdown editor based on PageDown, the Markdown library used by Stack Overflow and the other Stack Exchange sites.
 
+Lisence
+-------------
+MIT Lisence
 
   [1]: http://havkalix.hexlab.kr
   [2]: http://www.facebook.com/namegpark
+
