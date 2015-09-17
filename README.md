@@ -1,4 +1,4 @@
-Puller
+Puller : Smart APK Downloader
 ===================
 
 Intro
