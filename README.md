@@ -1,7 +1,7 @@
 Puller : Smart APK Downloader
 ===================
 
-Intro
+Introduction
 -------------
 There are many unknown malicious codes in Google Play Store.
 Android users use their devices with potential risks that can evoke sudden infection without any warnings. Therefore, analyzing applications are done by many malicious code analyzers worldwide. However, how can they export the apps uploaded in Play Store to analyze? If they need to install and export the apps to analyze from Play Store, this contains very high risk.  In this condition, Puller would decrease this risk allowing download the apps revealed in Play Store.
