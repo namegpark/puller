@@ -107,7 +107,7 @@ Helper
 > **이가영 (Lyla Lee)**
 
 > - Support Translation
-> - Visit [Facebook][2], [gayeonglylalee@gmail.com]
+> - [gayeonglylalee@gmail.com]
 
 
 Support
