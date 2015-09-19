@@ -73,8 +73,8 @@ python Engine.py -u [Package Name] -t [Token]
 
 #### <i class="icon-trash"></i> Add Permission information
 
-With pre-defined permission database, you can access to permission information of the downloaded app through the database. When the database is composed, describing permission file is read and insulted to the database in starter_db.py. If you want to customize authority information, please modify permission_list.txt file.
-Please follow the direction below to add authority information.
+With pre-defined permission database, you can access to permission information of the downloaded app through the database. When the database is composed, describing permission file is read and insulted to the database in starter_db.py. If you want to customize permission information, please modify permission_list.txt file.
+Please follow the direction below to add permission information.
 
 ```javascript
 [Permission Name]#[Description]
