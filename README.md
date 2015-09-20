@@ -109,6 +109,9 @@ Helper
 > - Support Translation
 > - [gayeonglylalee@gmail.com]
 
+Reference
+-------------
+egirault/googleplay-api
 
 Support
 -------------
